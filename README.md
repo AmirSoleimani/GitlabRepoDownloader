@@ -21,7 +21,7 @@ go build .
 
 
 
-### Runner
+### Download & Run
 
 Go to Wiki ;)
 
