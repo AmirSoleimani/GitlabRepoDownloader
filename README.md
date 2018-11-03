@@ -19,12 +19,6 @@ go build .
 ./glrd -token BlaBLaBlaBla-SB1bLA2 -host https://gitlab.example.com -datadir ./data
 ```
 
-
-
-### Download & Run
-
-```https://drive.google.com/drive/folders/1u4ynA3z6jAMh2bjjbP6bZB-xdIRdhLOj```
-
 ### CLi
 
 

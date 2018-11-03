@@ -84,6 +84,7 @@ func main() {
 			for _, b := range branches {
 
 				// variables
+				// remove private token when print log ;)
 				u := fmt.Sprintf("%s/api/v4/projects/%d/repository/archive?private_token=%s&sha=%s", host, a.ID, accessToken, b.Commit.ID)
 				p := fmt.Sprintf("%s/%s/%s", datadir, a.PathWithNamespace, b.Name)
 				sp := p + "/archive.zip"
