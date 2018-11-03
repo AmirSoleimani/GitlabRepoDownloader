@@ -23,7 +23,7 @@ go build .
 
 ### Download & Run
 
-Go to Wiki ;)
+```https://drive.google.com/drive/folders/1u4ynA3z6jAMh2bjjbP6bZB-xdIRdhLOj```
 
 ### CLi
 
