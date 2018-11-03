@@ -1,10 +1,10 @@
 package main
 
 import (
+	"GitlabRepoDownlaoder/gilab"
+	"GitlabRepoDownlaoder/utils"
 	"flag"
 	"fmt"
-	"glrd/gilab"
-	"glrd/utils"
 	"net/url"
 
 	"github.com/sirupsen/logrus"

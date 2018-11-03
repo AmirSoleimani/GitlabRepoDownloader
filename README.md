@@ -3,7 +3,7 @@
 # Build & Run
 ##### Step 1. Git Clone
 ```
-git clone https://github.com/AmirSoleimani/GitlabDownlaoder
+git clone https://github.com/AmirSoleimani/GitlabRepoDownlaoder
 ```
 
 ##### Step 2. Get Dependencies
