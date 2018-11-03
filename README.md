@@ -1,6 +1,6 @@
 # Gitlab Repostiory Downloader
 
-### Download & Run
+# Download & Run
 
 see [Release](https://github.com/AmirSoleimani/GitlabRepoDownloader/releases)
 
