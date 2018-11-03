@@ -1,5 +1,9 @@
 # Gitlab Repostiory Downloader
-----
+
+### Download & Run
+
+see [Release](https://github.com/AmirSoleimani/GitlabRepoDownloader/releases)
+
 # Build & Run
 ##### Step 1. Git Clone
 ```
@@ -18,6 +22,7 @@ go build .
 ```
 ./glrd -token BlaBLaBlaBla-SB1bLA2 -host https://gitlab.example.com -datadir ./data
 ```
+
 
 ### CLi
 
