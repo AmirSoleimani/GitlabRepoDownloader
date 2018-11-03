@@ -1,10 +1,10 @@
 # Gitlab Repostiory Downloader
 
-# Download & Run
+### Download & Run
 
 see [Release](https://github.com/AmirSoleimani/GitlabRepoDownloader/releases)
 
-# Build & Run
+### Build & Run
 ##### Step 1. Git Clone
 ```
 git clone https://github.com/AmirSoleimani/GitlabRepoDownlaoder
