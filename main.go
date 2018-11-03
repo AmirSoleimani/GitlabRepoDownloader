@@ -1,8 +1,8 @@
 package main
 
 import (
-	"GitlabRepoDownlaoder/gilab"
-	"GitlabRepoDownlaoder/utils"
+	"GitlabRepoDownloader/gilab"
+	"GitlabRepoDownloader/utils"
 	"flag"
 	"fmt"
 	"net/url"
