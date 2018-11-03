@@ -29,7 +29,7 @@ go build .
 
 | -        | description  |
 |------------------|:--------------:|
-| `host`         | gitlab host url            |
+| `host`         | gitlab host url (https://... , http://....)            |
 | `token`          | gitlab user private token            |
 | `datadir`        | data directory path |
 
