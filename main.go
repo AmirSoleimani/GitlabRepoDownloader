@@ -47,7 +47,7 @@ func main() {
 	// check url
 	_, err := url.ParseRequestURI(host)
 	if err != nil {
-		logrus.Errorln("invalid gitlab URL")
+		logrus.Errorln("invalid gitlab URL (ex: https://...")
 		return
 	}
 
